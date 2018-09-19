@@ -1,2 +1,2 @@
 # storage-mics
-Unclassified storage of screenshots, documents, files which are interesting enough to share
+Loosely classified storage of screenshots, documents, files which are interesting enough to share
