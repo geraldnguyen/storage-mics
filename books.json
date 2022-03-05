@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Designing Data-Intensive Application",
+        "authors": [
+            "Martin Kleppmann"
+        ],
+        "image": "https://learning.oreilly.com/library/cover/9781491903063/250w/",
+        "description": "<p>Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers. What are the right choices for your application? How do you make sense of all these buzzwords?</p><p>In this practical and comprehensive guide, author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications.</p><ul><li>Peer under the hood of the systems you already use, and learn how to use and operate them more effectively</li><li>Make informed decisions by identifying the strengths and weaknesses of different tools</li><li>Navigate the trade-offs around consistency, scalability, fault tolerance, and complexity</li><li>Understand the distributed systems research upon which modern databases are built</li><li>Peek behind the scenes of major online services, and learn from their architectures</li></ul>"
+    },
+    {
+        "title": "Learning Go",
+        "authors": [
+            "Jon Bodner"
+        ],
+        "image": "https://learning.oreilly.com/library/cover/9781492077206/250w/",
+        "description": "Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.</p><p>No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.</p><ul>Learn how to write idiomatic code in Go and design a Go project</li><li>Understand the reasons for the design decisions in Go</li><li>Set up a Go development environment for a solo developer or team</li><li>Learn how and when to use reflection, unsafe, and cgo</li><li>Discover how Go's features allow the language to run efficiently</li><li>Know which Go features you should use sparingly or not at all</li></ul>"
+    },
+    {
+        "title": "Learning React",
+        "authors": [
+            "Alex Banks",
+            "Eve Porcello"
+        ],
+        "image": "https://learning.oreilly.com/library/cover/9781492051718/250w/",
+        "description": "<p>If you want to learn how to build efficient React applications, this is your book. Ideal for web developers and software engineers who understand how JavaScript, CSS, and HTML work in the browser, this updated edition provides best practices and patterns for writing modern React code. No prior knowledge of React or functional JavaScript is necessary.</p><p>With their learning road map, authors Alex Banks and Eve Porcello show you how to create UIs that can deftly display changes without page reloads on large-scale, data-driven websites. You’ll also discover how to work with functional programming and the latest ECMAScript features. Once you learn how to build React components with this hands-on guide, you’ll understand just how useful React can be in your organization.</p><p>Understand key functional programming concepts with JavaScriptLook under the hood to learn how React runs in the browserCreate application presentation layers with React componentsManage data and reduce the time you spend debugging applicationsIncorporate React Hooks to manage state and fetch dataUse a routing solution for single-page application featuresLearn how to structure React applications with servers in mind</p>"
+    }
+]
